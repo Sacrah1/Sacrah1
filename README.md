@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building my Github profile with data**
 
-- 🌱 I’m currently learning **Basics of EDA, Regression, classification, Cluster Analysis, NLP and Tablaue**
+- 🌱 I’m currently learning **Amazon Web Services:Data Analytics (AWS)**
 
 - 👯 I’m looking to collaborate on **Any of the presented Data Science project**
 
